@@ -39,7 +39,7 @@ $ conda activate -n carto_tutorial_venv
 $ conda install --name carto_tutorial_venv numpy netCDF4 cartopy
 ```
 
-* Liste les environnements conda
+* Lister les environnements conda
 
 ```bash
 $ conda env list
