@@ -6,7 +6,7 @@
 
 Télécharger l'installateur ici : https://docs.conda.io/en/latest/miniconda.html
 
-installeteur : Miniconda3-latest-Linux-x86_64.sh
+fichier à télécharger : Miniconda3-latest-Linux-x86_64.sh
 
 puis installer:
 
@@ -46,6 +46,8 @@ $ conda env list
 ```
 
 ## Test
+
+Il faut d'abord ajouter le fichier netcdf dans le répertoire courant
 
 * Lancer le code
 
